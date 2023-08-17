@@ -7,14 +7,19 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Rosie</title>
+    <title>Kelly</title>
 </head>
 <body>
-    <header>
+     <header>
         <div class="row">
             <a class="col-md-4 logo" href="index.html"></a>
             <div class="col-md-8">
-        
+                <div class="row bg-color-name-title">
+                    <div class="col heading">
+                        <h1 class="name">Rosie Odenkirk</h1>
+                        <h2 class="title"> Full Stack Developer</h2>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
